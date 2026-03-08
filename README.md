@@ -65,8 +65,18 @@ python internshala_resume_filler.py
 internshala-resume-filler/
 │
 ├── internshala_resume_filler.py   # Main automation script
+├── docs/
+│   └── Completion_Update.png      # Screenshot of completed resume
 └── README.md                      # This file
 ```
+
+---
+
+## ✅ Completion
+
+> Resume successfully auto-filled using the script:
+
+![Completion Screenshot](docs/Completion_Update.png)
 
 ---
 
@@ -90,6 +100,3 @@ internshala-resume-filler/
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-
-Completion : docs/Completion_Update.png
