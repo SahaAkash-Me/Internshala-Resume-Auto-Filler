@@ -14,7 +14,7 @@ from playwright.sync_api import sync_playwright
 # ════════════════════════════════════════════
 #  🔐  YOUR CREDENTIALS
 # ════════════════════════════════════════════
-EMAIL    = "sahaakash6@gmail.com"
+EMAIL    = "random@mail.com"
 PASSWORD = "Enter Your Password Here"   # ← CHANGE THIS
 
 # ════════════════════════════════════════════
