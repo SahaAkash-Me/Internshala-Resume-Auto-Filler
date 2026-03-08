@@ -90,3 +90,6 @@ internshala-resume-filler/
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+
+Completion : docs/Completion_Update.png
